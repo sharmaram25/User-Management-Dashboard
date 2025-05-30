@@ -14,7 +14,7 @@ A modern, full-stack user management dashboard built with **Next.js 13+ (App Rou
 - 👁️‍🗨️ **User Details Modal**: View user details in a modal with delete functionality.
 - 🔒 **Privacy**: Email and phone are masked in the table, full details in the modal.
 - ⚡ **API Routes**: Next.js API routes for user CRUD operations (in-memory store).
-- 🌙 **Dark Mode**: Dark theme is default; users can toggle to light mode.
+- 🌙 **Dark Mode**: Dark theme is default; light mode will be added later.
 - 📱 **Responsive Design**: Works great on desktop and mobile.
 - 🧑🏽‍🤝‍🧑🏾 **Sample Data**: 30 diverse users included by default.
 
@@ -89,7 +89,7 @@ user-management-dashboard/
 - **Add User**: Click "Add User" to open the multi-step form. Progress is saved in localStorage.
 - **View Details**: Click a user row to open the details modal.
 - **Delete User**: In the modal, click "Delete User" to remove a user.
-- **Theme**: The app starts in dark mode by default. Use the toggle in the top-right to switch themes.
+- **Theme**: The app starts in dark mode by default.
 
 ---
 
